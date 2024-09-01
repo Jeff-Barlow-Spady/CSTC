@@ -1,5 +1,7 @@
 # Community Science Traffic Counter
 
+- This is the repo for project porposal. Please reference the repository link in this organization's repository tab for source code of frontend website and backend server.  
+
 ## Objective 
 
 
